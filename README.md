@@ -1,5 +1,4 @@
 # HYRR_ASSIGNMENT
-#QUESTION_SUMMARY
 Assignment - full stack
 Technology Stack:
 Node.js and npm
